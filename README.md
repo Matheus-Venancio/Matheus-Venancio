@@ -15,8 +15,15 @@
  
 
 ## Sobre mim
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/matheusvenanciocordeiro)]( www.linkedin.com/in/matheusvenanciocordeiro)
+<div>
+    <a href="www.linkedin.com/in/matheusvenanciocordeiro" target="_blank"> 
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+   <a href="https://www.instagram.com/matheus_venancio78/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+ 
+</div>
 
 
 - Obrigado pela visita.
@@ -44,53 +51,3 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 
-Blocos
--  Para adicionar blocos, temos varias opções no link abaixo:
-
-https://github.com/anuraghazra/github-readme-stats#themes
-
-- Após escolher seu bloco copie a URL e cole em seu README:
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
-
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
-
-NOMEGIT= hellenmas. 
-
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
-
-
-
-
-
-GIF
-- Encontre o gif que mais combina com você nesse link:
-
-https://github.com/TheDudeThatCode/TheDudeThatCode
-
-*OBS deixo abaixo um exemplo para ser usado:
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-
-
-
-
-Imagem
-1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
-
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
-
-2. Para fazer o upload de imagens basta você clicar na imagem que esta em seu computador e arrastar a imagem para o seu README.
-
-
-
-
-Emojis
-1. Para saber quais são os Emojis disponíveis, acesse:
-
-https://github.com/scotch-io/All-Github-Emoji-Icons
-
-2. Agora basta copiar seu código e colar no README
-
-*OBS não se esqueça dos dois pontos : (:shipit:)
