@@ -10,7 +10,7 @@
 
 :books: Atualmente estou aprendendo de tudo e mais um pouco.
 
-❤️: Um amante da programação.
+❤️ Um amante da programação.
 
  <div>
     <a href="https://github.com/Matheus-Venancio"></a>
