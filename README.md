@@ -52,7 +52,7 @@
  </a>
  
       <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
  </a>
 </div>
 
@@ -72,8 +72,8 @@
 ## FRAMEWORKS
 
 <div> 
- 
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
+ <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
  </a>
