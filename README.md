@@ -6,11 +6,11 @@
 
  
 
-:computer: Sou um Full-Stack Developer Junior!
+:computer: Sou um Front-end Developer Junior!
 
-:books: Atualmente estou aprendendo de tudo e mais um pouco.
+:books: Atualmente estou procurando melhorar minhas habilidades como desenvolvedor.
 
-❤️ Um amante da programação.
+❤️ Sou apaixonado por codigo, logica e liderança.
 
  <div>
     <a href="https://github.com/Matheus-Venancio"></a>
