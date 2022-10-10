@@ -87,6 +87,28 @@
  
 </div>
 
+
+## DESIGN
+
+<div> 
+ <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+ </a>
+   <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+ </a>
+   <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank">
+ </a>
+ 
+  <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
+ </a>
+ 
+</div>
+
 ## Obrigado pela visita.
 
 
