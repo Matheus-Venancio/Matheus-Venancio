@@ -1,8 +1,4 @@
-# Olá!
-
- 
-
-## Me chamo Matheus Venâncio Cordeiro!
+##Oii, Me chamo Matheus Venâncio Cordeiro!
 
  
 
@@ -12,9 +8,10 @@
 
 ❤️ Sou apaixonado por codigo, logica e liderança.
 
- <div>
-    <a href="https://github.com/Matheus-Venancio"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Venancio&layout=compact&langs_count=8&theme=radical" />
+<div>
+    <a href="https://github.com/kaique64"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaique64&theme=radical&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique64&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 ## LINKS
