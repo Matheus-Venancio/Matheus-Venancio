@@ -2,7 +2,7 @@
 
  
 
-:computer: Sou um Front-end Developer Junior!
+:computer: Sou um Full-stack Developer Junior!
 
 :books: Atualmente estou procurando melhorar minhas habilidades como desenvolvedor.
 
